@@ -1,5 +1,5 @@
 import UnderConstruction from "../components/common/UnderConstruction"
 
-export default function Stats() {
+export default function TradeInator() {
   return <UnderConstruction />
 }
